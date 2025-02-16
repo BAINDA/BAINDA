@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,angular,bootstrap,tailwind,vscode,visualstudio,github,figma,git,netlify,vercel,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,angular,bootstrap,tailwind,cs,dotnet,vscode,visualstudio,git,github,figma,netlify,vercel" />
 </div>
 
 <br/>
