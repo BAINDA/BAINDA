@@ -1,24 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BAINDA.BAINDA" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+BAINDA!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+BAINDA!" />
 </h1>
 
-<h3 align="center">A passionate web developer from Georgia 🇬🇪</h3>
+<h3 align="center">Web developer from Georgia 🇬🇪 — focused on results</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **C#**
 
-💬 Ask me about **Angular, Typescript, Javascript... or anything [here](https://github.com/BAINDA/BAINDA/issues)**
+ 🔭 Building a marketplace that works.<br/><br/>
 
-⚡ Fun fact **The secret to mastering coding is like building muscle—consistency, focus, and pushing yourself to the limit every day**
+ 🌱 Learning C# and strengthening my backend skills.<br/><br/>
 
- </div>
+💬 Ask me anything about Angular, TypeScript, JavaScript — or start a conversation <a href="https://github.com/BAINDA/BAINDA/issues">here</a>.<br/><br/>
+
+⚡ Coding is like training: steady effort, discipline, and pushing limits every day.
+
+</div>
+
  
 <div align="center"> 
   <a href="mailto:giorgibainda14@gmail.com">
