@@ -37,10 +37,13 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,angular,bootstrap,tailwind,cs,dotnet,vscode,visualstudio,git,github,figma,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,angular,bootstrap,tailwind,cs,dotnet,vscode,visualstudio,git,github,figma,netlify,vercel" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
 
 <br/>
